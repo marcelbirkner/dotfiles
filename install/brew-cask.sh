@@ -20,6 +20,7 @@ apps=(
   google-chrome
   google-chrome-canary
   hammerspoon
+  intellij-idea
   kaleidoscope
   macdown
   opera
