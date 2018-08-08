@@ -11,27 +11,17 @@ brew tap caskroom/fonts
 
 apps=(
   alfred
+  atom
   dash2
   dropbox
   firefox
-  flux
-  font-fira-code
-  glimmerblocker
-  google-chrome
-  google-chrome-canary
   hammerspoon
   intellij-idea
   kaleidoscope
   macdown
-  opera
-  screenflow
   slack
   sourcetree
-  spotify
-  sublime-text
-  transmit
-  virtualbox
-  visual-studio-code
+  tunnelblick
   vlc
 )
 
