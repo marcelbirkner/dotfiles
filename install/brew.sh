@@ -16,6 +16,7 @@ apps=(
   bats
   battery
   coreutils
+  dep
   diff-so-fancy
   dockutil
   ffmpeg
@@ -24,6 +25,7 @@ apps=(
   git
   git-extras
   gnu-sed --with-default-names
+  go
   grep --with-default-names
   hub
   httpie
@@ -31,13 +33,16 @@ apps=(
   jq
   lynx
   mackup
+  maven
   nano
+  nomad
   pandoc
   peco
   psgrep
   python
   shellcheck
   ssh-copy-id
+  TomAnthony/brews/itermocil
   tree
   unar
   wget
