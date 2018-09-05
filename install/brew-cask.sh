@@ -21,6 +21,7 @@ apps=(
   java8
   kaleidoscope
   macdown
+  paintbrush
   slack
   sourcetree
   tunnelblick
