@@ -47,6 +47,7 @@ apps=(
   unar
   wget
   wifi-password
+  yarn
 )
 
 brew install "${apps[@]}"
