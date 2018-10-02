@@ -39,6 +39,7 @@ apps=(
   pandoc
   peco
   psgrep
+  pipenv
   python
   shellcheck
   ssh-copy-id
