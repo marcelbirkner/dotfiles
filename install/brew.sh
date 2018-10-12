@@ -24,6 +24,7 @@ apps=(
   gifsicle
   git
   git-extras
+  git-lfs
   gnu-sed --with-default-names
   go
   grep --with-default-names
