@@ -12,6 +12,7 @@ brew upgrade
 # Install packages
 
 apps=(
+  ansible
   bash-completion2
   bats
   battery
@@ -32,6 +33,7 @@ apps=(
   httpie
   imagemagick
   jq
+  kubernetes-cli
   lynx
   mackup
   maven
@@ -44,6 +46,7 @@ apps=(
   python
   shellcheck
   ssh-copy-id
+  sonos
   TomAnthony/brews/itermocil
   tree
   unar
