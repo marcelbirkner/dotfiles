@@ -44,6 +44,7 @@ apps=(
   psgrep
   pipenv
   python
+  gnu-sed
   shellcheck
   ssh-copy-id
   sonos
