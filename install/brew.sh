@@ -16,6 +16,7 @@ apps=(
   bash-completion2
   bats
   battery
+  bfg
   coreutils
   dep
   diff-so-fancy
@@ -34,6 +35,7 @@ apps=(
   imagemagick
   jq
   kubernetes-cli
+  lego
   lynx
   mackup
   maven
