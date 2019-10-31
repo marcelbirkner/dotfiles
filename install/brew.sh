@@ -35,6 +35,7 @@ apps=(
   imagemagick
   jq
   kubernetes-cli
+  kubectx
   lego
   lynx
   mackup

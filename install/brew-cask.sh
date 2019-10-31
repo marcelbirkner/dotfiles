@@ -10,20 +10,15 @@ brew tap caskroom/fonts
 # Install packages
 
 apps=(
-  alfred
   atom
-  dash2
   dropbox
   firefox
   google-backup-and-sync
-  hammerspoon
   intellij-idea
   java8
-  kaleidoscope
   macdown
   paintbrush
   slack
-  sourcetree
   tunnelblick
   vlc
 )
